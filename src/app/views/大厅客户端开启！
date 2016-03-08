@@ -1,0 +1,137 @@
+大厅客户端开启！
+CTCPSocket::SendData wMainCmdID: 1( MDM_CS_SERVER_LIST ), wSubCmdID: 1( SUB_CS_GET_SERVER_LIST ), wDataSize = 72.
+CTCPSocket::SendData wMainCmdID: 10001( MDM_GR_LOGON ), wSubCmdID: 2( SUB_GR_LOGON_USERID ), wDataSize = 48.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10001( MDM_GR_LOGON ), wSubCmdID: 100( SUB_GR_LOGON_SUCCESS ), wDataSize: 4, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10003( MDM_GR_INFO ), wSubCmdID: 100( SUB_GR_SERVER_INFO ), wDataSize: 16, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10003( MDM_GR_INFO ), wSubCmdID: 103( SUB_GR_COLUMN_INFO ), wDataSize: 302, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10003( MDM_GR_INFO ), wSubCmdID: 104( SUB_GR_CONFIG_FINISH ), wDataSize: 0, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 100( SUB_GR_USER_COME ), wDataSize: 147, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 100( SUB_GR_USER_COME ), wDataSize: 150, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 100( SUB_GR_USER_COME ), wDataSize: 150, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 100( SUB_GR_USER_COME ), wDataSize: 150, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 100( SUB_GR_USER_COME ), wDataSize: 150, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10004( MDM_GR_STATUS ), wSubCmdID: 100( SUB_GR_TABLE_INFO ), wDataSize: 12, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 102( MDM_GF_PRESENT ), wSubCmdID: 553( SUB_GF_PROP_ATTRIBUTE ), wDataSize: 968, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 102( MDM_GF_PRESENT ), wSubCmdID: 500( SUB_GF_FLOWER_ATTRIBUTE ), wDataSize: 220, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10001( MDM_GR_LOGON ), wSubCmdID: 102( SUB_GR_LOGON_FINISH ), wDataSize: 0, dwSocketID: 52685.
+CTCPSocket::SendData wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 202( SUB_GR_USER_RULE ), wDataSize = 56.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 100( SUB_GR_USER_COME ), wDataSize: 147, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10010( MDM_GR_SYSTEM ), wSubCmdID: 100( SUB_GR_MESSAGE ), wDataSize: 37, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10004( MDM_GR_STATUS ), wSubCmdID: 101( SUB_GR_TABLE_STATUS ), wDataSize: 4, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 101( SUB_GR_USER_STATUS ), wDataSize: 12, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10004( MDM_GR_STATUS ), wSubCmdID: 101( SUB_GR_TABLE_STATUS ), wDataSize: 4, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 101( SUB_GR_USER_STATUS ), wDataSize: 12, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10004( MDM_GR_STATUS ), wSubCmdID: 101( SUB_GR_TABLE_STATUS ), wDataSize: 4, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 101( SUB_GR_USER_STATUS ), wDataSize: 12, dwSocketID: 52685.
+CTCPSocket::SendData wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 1( SUB_GR_USER_SIT_REQ ), wDataSize = 6.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10004( MDM_GR_STATUS ), wSubCmdID: 101( SUB_GR_TABLE_STATUS ), wDataSize: 4, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 101( SUB_GR_USER_STATUS ), wDataSize: 12, dwSocketID: 52685.
+CTCPSocket::SendData wMainCmdID: 101( MDM_GF_FRAME ), wSubCmdID: 1( SUB_GF_INFO ), wDataSize = 1.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 101( MDM_GF_FRAME ), wSubCmdID: 100( SUB_GF_OPTION ), wDataSize: 2, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 101( MDM_GF_FRAME ), wSubCmdID: 300( SUB_GF_MESSAGE ), wDataSize: 63, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 101( MDM_GF_FRAME ), wSubCmdID: 101( SUB_GF_SCENE ), wDataSize: 8, dwSocketID: 52685.
+CTCPSocket::SendData wMainCmdID: 101( MDM_GF_FRAME ) wSubCmdID: 2( SUB_GF_USER_READY ).
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 101( SUB_GR_USER_STATUS ), wDataSize: 12, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 101( SUB_GR_USER_STATUS ), wDataSize: 12, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 100( SUB_GR_USER_COME ), wDataSize: 150, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 101( SUB_GR_USER_STATUS ), wDataSize: 12, dwSocketID: 52685.
+CTCPSocket::SendData wMainCmdID: 100( MDM_GF_GAME ), wSubCmdID: 4( SUB_C_TRUSTEE ), wDataSize = 4.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 100( MDM_GF_GAME ), wSubCmdID: 4( SUB_C_TRUSTEE ), wDataSize: 4, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10004( MDM_GR_STATUS ), wSubCmdID: 101( SUB_GR_TABLE_STATUS ), wDataSize: 4, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 101( SUB_GR_USER_STATUS ), wDataSize: 12, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 101( SUB_GR_USER_STATUS ), wDataSize: 12, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 101( SUB_GR_USER_STATUS ), wDataSize: 12, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10004( MDM_GR_STATUS ), wSubCmdID: 101( SUB_GR_TABLE_STATUS ), wDataSize: 4, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 101( SUB_GR_USER_STATUS ), wDataSize: 12, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10011( MDM_GR_SERVER_INFO ), wSubCmdID: 100( SUB_GR_ONLINE_COUNT_INFO ), wDataSize: 112, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 100( SUB_GR_USER_COME ), wDataSize: 150, dwSocketID: 52685.
+CTCPSocket::SendData wMainCmdID: 0( MDM_KN_COMMAND ), wSubCmdID: 1( SUB_KN_DETECT_SOCKET ), wDataSize = 8.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 101( SUB_GR_USER_STATUS ), wDataSize: 12, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 100( SUB_GR_USER_COME ), wDataSize: 150, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10004( MDM_GR_STATUS ), wSubCmdID: 101( SUB_GR_TABLE_STATUS ), wDataSize: 4, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 101( SUB_GR_USER_STATUS ), wDataSize: 12, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10004( MDM_GR_STATUS ), wSubCmdID: 101( SUB_GR_TABLE_STATUS ), wDataSize: 4, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 101( SUB_GR_USER_STATUS ), wDataSize: 12, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10004( MDM_GR_STATUS ), wSubCmdID: 101( SUB_GR_TABLE_STATUS ), wDataSize: 4, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 101( SUB_GR_USER_STATUS ), wDataSize: 12, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 101( SUB_GR_USER_STATUS ), wDataSize: 12, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10004( MDM_GR_STATUS ), wSubCmdID: 101( SUB_GR_TABLE_STATUS ), wDataSize: 4, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 101( SUB_GR_USER_STATUS ), wDataSize: 12, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 101( SUB_GR_USER_STATUS ), wDataSize: 12, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 101( SUB_GR_USER_STATUS ), wDataSize: 12, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 100( MDM_GF_GAME ), wSubCmdID: 100( SUB_S_SEND_CARD ), wDataSize: 68, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 100( SUB_GR_USER_COME ), wDataSize: 150, dwSocketID: 52685.
+CTCPSocket::SendData wMainCmdID: 0( MDM_KN_COMMAND ), wSubCmdID: 1( SUB_KN_DETECT_SOCKET ), wDataSize = 8.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 101( SUB_GR_USER_STATUS ), wDataSize: 12, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 100( MDM_GF_GAME ), wSubCmdID: 101( SUB_S_LAND_SCORE ), wDataSize: 12, dwSocketID: 52685.
+CTCPSocket::SendData wMainCmdID: 100( MDM_GF_GAME ), wSubCmdID: 1( SUB_C_LAND_SCORE ), wDataSize = 1.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 100( MDM_GF_GAME ), wSubCmdID: 101( SUB_S_LAND_SCORE ), wDataSize: 12, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 100( MDM_GF_GAME ), wSubCmdID: 100( SUB_S_SEND_CARD ), wDataSize: 68, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 101( SUB_GR_USER_STATUS ), wDataSize: 12, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10011( MDM_GR_SERVER_INFO ), wSubCmdID: 100( SUB_GR_ONLINE_COUNT_INFO ), wDataSize: 112, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 100( MDM_GF_GAME ), wSubCmdID: 101( SUB_S_LAND_SCORE ), wDataSize: 12, dwSocketID: 52685.
+CTCPSocket::SendData wMainCmdID: 100( MDM_GF_GAME ), wSubCmdID: 1( SUB_C_LAND_SCORE ), wDataSize = 1.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 100( MDM_GF_GAME ), wSubCmdID: 101( SUB_S_LAND_SCORE ), wDataSize: 12, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 100( MDM_GF_GAME ), wSubCmdID: 101( SUB_S_LAND_SCORE ), wDataSize: 12, dwSocketID: 52685.
+CTCPSocket::SendData wMainCmdID: 100( MDM_GF_GAME ), wSubCmdID: 6( SUB_C_BRIGHT ), wDataSize = 1.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 100( MDM_GF_GAME ), wSubCmdID: 107( SUB_S_BRIGHT_CARD ), wDataSize: 6, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 100( MDM_GF_GAME ), wSubCmdID: 108( SUB_S_DOUBLE_SCORE ), wDataSize: 8, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 100( MDM_GF_GAME ), wSubCmdID: 109( SUB_S_USER_DOUBLE ), wDataSize: 4, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 100( MDM_GF_GAME ), wSubCmdID: 109( SUB_S_USER_DOUBLE ), wDataSize: 4, dwSocketID: 52685.
+CTCPSocket::SendData wMainCmdID: 100( MDM_GF_GAME ), wSubCmdID: 7( SUB_C_DOUBLE_SCORE ), wDataSize = 1.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 100( MDM_GF_GAME ), wSubCmdID: 109( SUB_S_USER_DOUBLE ), wDataSize: 4, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 100( MDM_GF_GAME ), wSubCmdID: 102( SUB_S_GAME_START ), wDataSize: 14, dwSocketID: 52685.
+CTCPSocket::SendData wMainCmdID: 0( MDM_KN_COMMAND ), wSubCmdID: 1( SUB_KN_DETECT_SOCKET ), wDataSize = 8.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 100( MDM_GF_GAME ), wSubCmdID: 103( SUB_S_OUT_CARD ), wDataSize: 10, dwSocketID: 52685.
+CTCPSocket::SendData wMainCmdID: 100( MDM_GF_GAME ), wSubCmdID: 2( SUB_C_OUT_CART ), wDataSize = 5.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 100( MDM_GF_GAME ), wSubCmdID: 103( SUB_S_OUT_CARD ), wDataSize: 10, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10004( MDM_GR_STATUS ), wSubCmdID: 101( SUB_GR_TABLE_STATUS ), wDataSize: 4, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 101( SUB_GR_USER_STATUS ), wDataSize: 12, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10004( MDM_GR_STATUS ), wSubCmdID: 101( SUB_GR_TABLE_STATUS ), wDataSize: 4, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 101( SUB_GR_USER_STATUS ), wDataSize: 12, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10004( MDM_GR_STATUS ), wSubCmdID: 101( SUB_GR_TABLE_STATUS ), wDataSize: 4, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 101( SUB_GR_USER_STATUS ), wDataSize: 12, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 100( MDM_GF_GAME ), wSubCmdID: 104( SUB_S_PASS_CARD ), wDataSize: 6, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 100( MDM_GF_GAME ), wSubCmdID: 103( SUB_S_OUT_CARD ), wDataSize: 10, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 101( SUB_GR_USER_STATUS ), wDataSize: 12, dwSocketID: 52685.
+CTCPSocket::SendData wMainCmdID: 100( MDM_GF_GAME ) wSubCmdID: 3( SUB_C_PASS_CARD ).
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 100( MDM_GF_GAME ), wSubCmdID: 104( SUB_S_PASS_CARD ), wDataSize: 6, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 100( MDM_GF_GAME ), wSubCmdID: 104( SUB_S_PASS_CARD ), wDataSize: 6, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 101( SUB_GR_USER_STATUS ), wDataSize: 12, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 100( MDM_GF_GAME ), wSubCmdID: 103( SUB_S_OUT_CARD ), wDataSize: 11, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10004( MDM_GR_STATUS ), wSubCmdID: 101( SUB_GR_TABLE_STATUS ), wDataSize: 4, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 101( SUB_GR_USER_STATUS ), wDataSize: 12, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 101( SUB_GR_USER_STATUS ), wDataSize: 12, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 101( SUB_GR_USER_STATUS ), wDataSize: 12, dwSocketID: 52685.
+CTCPSocket::SendData wMainCmdID: 100( MDM_GF_GAME ) wSubCmdID: 3( SUB_C_PASS_CARD ).
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 100( MDM_GF_GAME ), wSubCmdID: 104( SUB_S_PASS_CARD ), wDataSize: 6, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 100( MDM_GF_GAME ), wSubCmdID: 103( SUB_S_OUT_CARD ), wDataSize: 11, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 100( MDM_GF_GAME ), wSubCmdID: 104( SUB_S_PASS_CARD ), wDataSize: 6, dwSocketID: 52685.
+CTCPSocket::SendData wMainCmdID: 100( MDM_GF_GAME ) wSubCmdID: 3( SUB_C_PASS_CARD ).
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 100( MDM_GF_GAME ), wSubCmdID: 104( SUB_S_PASS_CARD ), wDataSize: 6, dwSocketID: 52685.
+CTCPSocket::SendData wMainCmdID: 0( MDM_KN_COMMAND ), wSubCmdID: 1( SUB_KN_DETECT_SOCKET ), wDataSize = 8.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10011( MDM_GR_SERVER_INFO ), wSubCmdID: 100( SUB_GR_ONLINE_COUNT_INFO ), wDataSize: 112, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 100( MDM_GF_GAME ), wSubCmdID: 103( SUB_S_OUT_CARD ), wDataSize: 12, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 100( MDM_GF_GAME ), wSubCmdID: 104( SUB_S_PASS_CARD ), wDataSize: 6, dwSocketID: 52685.
+CTCPSocket::SendData wMainCmdID: 100( MDM_GF_GAME ) wSubCmdID: 3( SUB_C_PASS_CARD ).
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 100( MDM_GF_GAME ), wSubCmdID: 104( SUB_S_PASS_CARD ), wDataSize: 6, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 100( MDM_GF_GAME ), wSubCmdID: 103( SUB_S_OUT_CARD ), wDataSize: 11, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 100( MDM_GF_GAME ), wSubCmdID: 104( SUB_S_PASS_CARD ), wDataSize: 6, dwSocketID: 52685.
+CTCPSocket::SendData wMainCmdID: 100( MDM_GF_GAME ) wSubCmdID: 3( SUB_C_PASS_CARD ).
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 100( MDM_GF_GAME ), wSubCmdID: 104( SUB_S_PASS_CARD ), wDataSize: 6, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 100( MDM_GF_GAME ), wSubCmdID: 103( SUB_S_OUT_CARD ), wDataSize: 7, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 102( SUB_GR_USER_SCORE ), wDataSize: 40, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 102( SUB_GR_USER_SCORE ), wDataSize: 40, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 102( SUB_GR_USER_SCORE ), wDataSize: 40, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 100( MDM_GF_GAME ), wSubCmdID: 105( SUB_S_GAME_END ), wDataSize: 76, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 101( SUB_GR_USER_STATUS ), wDataSize: 12, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 101( SUB_GR_USER_STATUS ), wDataSize: 12, dwSocketID: 52685.
+CTCPSocket::SendData wMainCmdID: 100( MDM_GF_GAME ), wSubCmdID: 4( SUB_C_TRUSTEE ), wDataSize = 4.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 101( SUB_GR_USER_STATUS ), wDataSize: 12, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10004( MDM_GR_STATUS ), wSubCmdID: 101( SUB_GR_TABLE_STATUS ), wDataSize: 4, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 100( MDM_GF_GAME ), wSubCmdID: 4( SUB_C_TRUSTEE ), wDataSize: 4, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 101( SUB_GR_USER_STATUS ), wDataSize: 12, dwSocketID: 52685.
+CTCPSocket::SendData wMainCmdID: 10002( MDM_GR_USER ) wSubCmdID: 3( SUB_GR_USER_STANDUP_REQ ).
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 101( SUB_GR_USER_STATUS ), wDataSize: 12, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 101( SUB_GR_USER_STATUS ), wDataSize: 12, dwSocketID: 52685.
+CAttemperEngineSink::OnEventTCPNetworkRead wMainCmdID: 10002( MDM_GR_USER ), wSubCmdID: 101( SUB_GR_USER_STATUS ), wDataSize: 12, dwSocketID: 52685.
